@@ -1,0 +1,6 @@
+12:41:20.819 [main] INFO  resources.BaseClass - Desired url invoked successfully
+16:30:08.057 [TestNG-tests-1] INFO  resources.BaseClass - Driver has been started successfully
+16:30:12.037 [TestNG-tests-1] INFO  resources.BaseClass - Desired url invoked successfully
+16:30:33.170 [TestNG-tests-1] INFO  resources.BaseClass - Desired url invoked successfully
+19:53:04.594 [main] INFO  resources.BaseClass - Driver has been started successfully
+19:53:06.940 [main] INFO  resources.BaseClass - Desired url invoked successfully

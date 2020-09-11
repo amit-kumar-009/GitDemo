@@ -1,0 +1,6 @@
+22:11:24.431 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+12:24:41.115 [main] INFO  resources.BaseClass - Driver has been started successfully
+12:24:59.465 [main] INFO  resources.BaseClass - Desired url invoked successfully
+12:25:20.507 [main] INFO  resources.BaseClass - Desired url invoked successfully
+12:40:45.825 [main] INFO  resources.BaseClass - Driver has been started successfully
+12:40:59.964 [main] INFO  resources.BaseClass - Desired url invoked successfully
