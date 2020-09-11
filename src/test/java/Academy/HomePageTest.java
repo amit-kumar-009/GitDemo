@@ -20,6 +20,7 @@ public static Logger log = LogManager.getLogger(BaseClass.class.getName());
 	public void invokeBrowser() throws Exception {
 		driver = startDriver();
 		log.info("Driver has been started successfully");
+		System.out.println("I have changed this for Git demo");
 	}
 
 	@Test(dataProvider = "getData")
